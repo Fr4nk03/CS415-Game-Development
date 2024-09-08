@@ -1,2 +1,2 @@
 # CS415 Game Development
- MPs
+Personal Repo for MPs version control
