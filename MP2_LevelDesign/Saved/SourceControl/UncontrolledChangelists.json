@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Maps/NewMap.umap",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/WP_HealthBar.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_HealthBar.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_Restart.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_Score.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
