@@ -7,7 +7,6 @@
 			"files": [
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Maps/NewMap.umap",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
-				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/WP_HealthBar.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_HealthBar.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_Restart.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
@@ -16,7 +15,11 @@
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
-				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset"
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/WP_HealthBar.uasset"
 			]
 		}
 	]
