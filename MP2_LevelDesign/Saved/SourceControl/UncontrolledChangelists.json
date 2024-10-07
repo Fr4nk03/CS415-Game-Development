@@ -23,6 +23,16 @@
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Mortar/BP_MortarProj.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/GA_Knockback.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/GA_Knockback1.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/Laser.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/lense.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/red_eye.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/scene.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/scene_Anim.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/scene_PhysicsAsset.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/scene_Skeleton.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/black_body.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BP_Drone.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BP_Proj.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/WP_HealthBar.uasset"
 			]
