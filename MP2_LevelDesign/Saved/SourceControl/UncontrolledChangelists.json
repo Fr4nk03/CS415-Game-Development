@@ -33,6 +33,10 @@
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Drone/black_body.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BP_Drone.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BP_Proj.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Bullet.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Mortar/BP_MortarRight.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Widgets/WP_Complete.uasset",
+				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Interactables/BP_CompleteGate.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
 				"D:/UIUC yyds/24FA/CS415/CS415-Game-Development/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/WP_HealthBar.uasset"
 			]
